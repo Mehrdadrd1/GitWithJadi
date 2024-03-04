@@ -1,4 +1,3 @@
-newLine
 #README
 ##Salam
 .salam
